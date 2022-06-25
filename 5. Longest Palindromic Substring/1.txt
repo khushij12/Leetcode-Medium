@@ -1,0 +1,89 @@
+- automatic
+- multipurpose
+- for carpenter, at home, at school
+- blind people - voice
+- compact
+- futuristic scale 
+- badass scale
+- its scale for you choice
+- yoga 
+- featurewise - 15 -student- 15+20 blind, carpenter - 80
+
+
+Not a small scale
+
+not a big scale
+its scale for you choice
+
+Yoga kare yeah bhagra,
+
+ghare ho yeah bahar
+
+har koi chahe apna choice. 
+
+its our yoga scale.
+
+
+- to get revision of the entites that we previously got
+- T1
+- T2 E11[5], E12[4], E13[3]
+- T3 E
+
+
+why revisionInfoEntity is not there?
+when to paginate?
+how we know that page will not be more than 2nd page
+why pageSize is not provided further in GithubIssueEntity
+//How we will sure that this page includes all details till maxtime
+criteriaDialect is not implemented. Good?
+sendReadRequestWithoutPagination will typereference work?
+HierachyProcess
+will we have read only values.
+i havent used change log and its related implementation in JirestPoller -> getRevisionInfoCarrierForCreateEvent.Is it fine?
+- mentioned -> subscribed
+- How to decide which exception to throw?
+- why different user are required for integration and user like in poller -> getRevisionInfoCarrierForCreateEvent
+- difference between criteriaBuilder and queryBuilder
+- revisionId = 0 ?
+- getFieldsCarrierListForUpdateEvent is left.
+- Attachment field is not there
+- why we dont need adapter?
+- we are not supporting organization?
+
+revisionId:id
+updatedBy: actor.login
+revisionDateTime: 2022-06-07T12:42:39Z
+FCR
+eventType: 
+isRevisionNumeric: false
+getEntitiesChangedAfter(curr-1,curr,){
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
